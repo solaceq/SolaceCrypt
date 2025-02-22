@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=SolaceCrypt
+GenericName=File Encryption Tool
+Comment=Secure File Encryption Tool
+Exec=/usr/local/bin/solacecrypt
+Icon=/usr/share/icons/solacecrypt/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Security;
+Keywords=encryption;security;crypto;
+StartupWMClass=solacecrypt 
